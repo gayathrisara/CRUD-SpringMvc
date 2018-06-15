@@ -1,0 +1,10 @@
+com\CrudMvc\Configuration\AppInitializer.class
+com\CrudMvc\Services\UserServicesImp.class
+com\CrudMvc\Services\UserServices.class
+com\CrudMvc\Model\Dao\UserDaoImp.class
+com\CrudMvc\Controller\UserController.class
+com\CrudMvc\Model\User.class
+com\CrudMvc\Controller\HomeController.class
+com\CrudMvc\Model\Dao\UserDao.class
+com\CrudMvc\Configuration\WebConfiguration.class
+com\CrudMvc\Configuration\DbConfiguration.class
